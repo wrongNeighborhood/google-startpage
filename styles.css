@@ -1,8 +1,7 @@
 .logo{
-	display:block;
-	margin-top: 5%;
-	margin-left: 35%;
-	clear:left;
+	margin-left:auto;
+	margin-right:auto;
+	width:400px;
 }
 .header{
 	width:100%;
@@ -17,14 +16,14 @@
 	line-height: 30px; 
 	margin-left: 45%;
 }
-input{
-	font-size:200%;
-	height:8%;
+.input{
+	margin-left:auto;
+	margin-right:auto;
 	width:50%;
+	font-size:200%;
 	border:1px solid blue;
-	margin-left: 30%;
-	margin-top:5%;
 }
+
 div > div{
 	display:inline;
 }
@@ -32,31 +31,3 @@ div > p{
 	color:blue;
 	text-align: center;
 }
-
-#g{
-	font-family:sans-serif;
-	font-size:70px;
-	color:blue;
-}
-#o{
-	font-family:sans-serif;
-	font-size:70px;
-	color:green;	
-}
-#oo{
-	font-family:sans-serif;
-	font-size:70px;
-	color:red;	
-}
-#l{
-	font-family:sans-serif;
-	font-size:70px;
-	color:yellow;	
-}
-#e{
-	font-family:sans-serif;
-	font-size:70px;
-	color:red;	
-}
-
-
